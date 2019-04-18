@@ -1,2 +1,2 @@
-# OpensourceDevProject
-Practice for Github
+# Calculator
+Use for Github practice
